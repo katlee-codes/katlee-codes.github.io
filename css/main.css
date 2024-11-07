@@ -140,6 +140,11 @@ nav a {
     justify-content: center;
 }
 
+.school-details {
+    font-weight: 500;
+    font-size: medium;
+}
+
 .projects {
     min-height: 100vh;
     display: flex;
