@@ -143,6 +143,7 @@ nav a {
 .school-details {
     font-weight: 500;
     font-size: medium;
+    margin:0px;
 }
 
 .projects {
@@ -176,7 +177,7 @@ a span {
     padding-right: 42px;
 }
 ul {
-    padding: 0;
+    padding: 0px;
     list-style-type: none;
 }
 
